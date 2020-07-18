@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello tomcat , we have delpoyed war file</h2>
 </body>
 </html>
